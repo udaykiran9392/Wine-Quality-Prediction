@@ -2,17 +2,17 @@
 
 Wine quality is a complex and subjective concept that can be influenced by a variety of factors. The quality of a wine is determined by 11 input variables:
 
-Fixed acidity
-Volatile acidity
-Citric acid
-Residual sugar
-Chlorides
-Free sulfur dioxide
-Total sulfur dioxide
-Density
-pH
-Sulfates
-Alcohol
+Fixed acidity,
+Volatile acidity,
+Citric acid,
+Residual sugar,
+Chlorides,
+Free sulfur dioxide,
+Total sulfur dioxide,
+Density,
+pH,
+Sulfates,
+Alcohol.
 
 
 Wine quality prediction using linear regression in machine learning is an insightful application that seeks to demystify the art of wine assessment by harnessing the power of data and statistical modeling. In this approach, linear regression serves as the guiding mathematical framework to uncover the relationships between various measurable wine attributes and the elusive concept of quality.
