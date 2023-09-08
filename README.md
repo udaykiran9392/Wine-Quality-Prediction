@@ -20,6 +20,9 @@ Wine quality prediction using linear regression in machine learning is an insigh
 Linear regression, a fundamental machine learning algorithm, is adept at establishing a linear connection between a set of independent variables (in this case, wine attributes) and a dependent variable (wine quality). It allows us to quantify the impact of each attribute on the overall quality score in a systematic and transparent manner.
 
 
+
+Here:
+
 Programming Language Used Used : Python
 
 Tools Used : Jupiter Notebook , Anaconda
